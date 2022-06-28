@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(3, 4, 46);
+    text-align: center;
+}
+h2{
+    color: azure;
+    text-align: center;
+}
+label{
+    display: inline-block;
+    color:azure;
+    text-align: center;
+    margin: 2em;
+}
+#usr{
+    width: 18%;
+    text-align: center;
+    margin: auto;
+}
+button{
+    width: 18%;
+    text-align: center;
+    margin: 2em;
+}
+#comment{
+    width: 18%;
+    text-align: left;
+    margin: auto;
+}
